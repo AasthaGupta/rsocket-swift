@@ -17,6 +17,7 @@
 import Foundation
 
 internal struct FrameHeader {
+    
     internal static let lengthInBytes = 6
 
     /// The id of the corresponding stream

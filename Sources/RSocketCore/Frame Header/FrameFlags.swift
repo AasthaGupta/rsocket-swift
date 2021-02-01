@@ -17,6 +17,7 @@
 import Foundation
 
 internal struct FrameFlags: OptionSet {
+    
     internal let rawValue: UInt16
 
     /**
